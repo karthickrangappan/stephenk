@@ -246,8 +246,8 @@ body {
 }
 .glowing-circle span {
     position: absolute;
-    width: 105%;
-    height: 75%;
+    width: 82%;
+    height: 80%;
     background: linear-gradient(#f06,#3cf);
     border-radius: 50%;
     animation: cicleRotate 5s linear infinite;
